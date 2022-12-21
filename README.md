@@ -31,4 +31,4 @@ https://gyazo.com/80b6898332573694466823b4881ffdb6
 
 link to my github accont:
 
-https://github.com/nimrodtzur200/se_project_aroundtheus
+https://nimrodtzur200.github.io/se_project_aroundtheus/
